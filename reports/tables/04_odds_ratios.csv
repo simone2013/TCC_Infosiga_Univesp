@@ -1,0 +1,21 @@
+﻿termo,OR,IC95_inf,IC95_sup,p_valor,significativo
+Engavetamento,0.5784,0.3846,0.8699,0.0086,True
+Colisão lateral,0.6199,0.5578,0.6889,0.0,True
+Guarulhos,0.6699,0.6198,0.7241,0.0,True
+Colisão transversal,0.8208,0.7337,0.9183,0.0006,True
+Ano 2023,0.9583,0.8626,1.0647,0.428,False
+Ano 2024,1.0675,0.9627,1.1838,0.2154,False
+Tarde,1.0774,0.971,1.1955,0.1597,False
+Tombamento,1.1565,1.0207,1.3102,0.0225,True
+Ano 2025,1.1682,1.0476,1.3027,0.0052,True
+Fim de semana,1.2853,1.1824,1.397,0.0,True
+Colisão frontal,1.3716,1.2273,1.5329,0.0,True
+Rodovia,1.4027,1.2757,1.5425,0.0,True
+Noite,1.436,1.2989,1.5876,0.0,True
+Capotamento,1.4493,1.133,1.8538,0.0031,True
+Choque,2.1171,1.8727,2.3933,0.0,True
+Madrugada,2.3103,2.037,2.6202,0.0,True
+Bicicleta,2.3159,1.8336,2.925,0.0,True
+Veículo pesado,2.3314,2.0888,2.6023,0.0,True
+Motocicleta,2.5452,2.3162,2.7967,0.0,True
+Pedestre,3.9865,3.4829,4.5629,0.0,True

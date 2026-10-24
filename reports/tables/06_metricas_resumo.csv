@@ -1,0 +1,3 @@
+﻿modelo,auc_teste,cv_auc,cv_dp
+"Regressão logística (statsmodels, nb 04)",0.699,,
+Random Forest,0.7046,0.7068,0.0141

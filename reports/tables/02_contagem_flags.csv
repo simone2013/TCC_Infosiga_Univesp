@@ -1,0 +1,5 @@
+﻿municipio,grupo_via,envolve_moto,envolve_bicicleta,envolve_pedestre,envolve_automovel,envolve_caminhao,envolve_onibus,envolve_pesado,tp_atropelamento,tp_colisao_frontal,tp_colisao_lateral,tp_colisao_transv,tp_choque,tp_capotamento,tp_tombamento,tp_engavetamento
+CAMPINAS,RODOVIA,1941,53,137,2074,383,104,473,185,91,608,1073,738,231,1476,154
+CAMPINAS,VIA URBANA,5262,185,677,6108,239,581,808,786,2198,3282,1704,647,201,434,78
+GUARULHOS,RODOVIA,2712,69,205,2688,543,122,650,232,56,1061,1361,498,101,776,132
+GUARULHOS,VIA URBANA,5809,222,1134,5874,422,479,886,1261,2571,2973,1099,586,87,262,40

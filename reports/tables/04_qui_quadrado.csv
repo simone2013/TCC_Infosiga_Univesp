@@ -1,0 +1,41 @@
+﻿variavel,n,chi2,gl,p_valor,cramer_v,comparacao,significativo_5pct
+gravidade,7557,659.65,3,1.1790807275236528e-142,0.2954,Campinas × Guarulhos (RODOVIA),True
+periodo,7540,12.27,3,0.006512686578429783,0.0403,Campinas × Guarulhos (RODOVIA),True
+dia_semana,7557,9.29,6,0.15772376443107777,0.0351,Campinas × Guarulhos (RODOVIA),False
+fim_semana,7557,4.69,1,0.03034814467605635,0.0249,Campinas × Guarulhos (RODOVIA),True
+tipo_detalhado,7557,963.2,8,1.3096680672234813e-202,0.357,Campinas × Guarulhos (RODOVIA),True
+envolve_moto,7557,39.96,1,2.593401828218669e-10,0.0727,Campinas × Guarulhos (RODOVIA),True
+envolve_pesado,7557,3.12,1,0.07735083558108782,0.0203,Campinas × Guarulhos (RODOVIA),False
+envolve_bicicleta,7557,0.03,1,0.8703157994251353,0.0019,Campinas × Guarulhos (RODOVIA),False
+envolve_pedestre,7557,2.78,1,0.09562360305743017,0.0192,Campinas × Guarulhos (RODOVIA),False
+tp_capotamento,7557,86.77,1,1.2187235534992186e-20,0.1072,Campinas × Guarulhos (RODOVIA),True
+gravidade,18301,179.79,3,9.785917420632585e-39,0.0991,Campinas × Guarulhos (VIA URBANA),True
+periodo,18280,38.65,3,2.0625971768196847e-08,0.046,Campinas × Guarulhos (VIA URBANA),True
+dia_semana,18301,12.05,6,0.06077119144468659,0.0257,Campinas × Guarulhos (VIA URBANA),False
+fim_semana,18301,8.95,1,0.0027703041470104146,0.0221,Campinas × Guarulhos (VIA URBANA),True
+tipo_detalhado,18301,343.44,8,2.2735800670270646e-69,0.137,Campinas × Guarulhos (VIA URBANA),True
+envolve_moto,18301,101.54,1,6.993846430784569e-24,0.0745,Campinas × Guarulhos (VIA URBANA),True
+envolve_pesado,18301,5.92,1,0.014937614740905245,0.018,Campinas × Guarulhos (VIA URBANA),True
+envolve_bicicleta,18301,4.11,1,0.042703022542101565,0.015,Campinas × Guarulhos (VIA URBANA),True
+envolve_pedestre,18301,138.69,1,5.153424118292655e-32,0.0871,Campinas × Guarulhos (VIA URBANA),True
+tp_capotamento,18301,42.59,1,6.755323404161238e-11,0.0482,Campinas × Guarulhos (VIA URBANA),True
+gravidade,12619,303.82,3,1.4845794175367657e-65,0.1552,Rodovia × Via urbana (CAMPINAS),True
+periodo,12597,129.92,3,5.615904186493309e-28,0.1016,Rodovia × Via urbana (CAMPINAS),True
+dia_semana,12619,7.22,6,0.3011739373418269,0.0239,Rodovia × Via urbana (CAMPINAS),False
+fim_semana,12619,2.73,1,0.09833878252774793,0.0147,Rodovia × Via urbana (CAMPINAS),False
+tipo_detalhado,12619,4224.14,8,0.0,0.5786,Rodovia × Via urbana (CAMPINAS),True
+envolve_moto,12619,0.5,1,0.4779299013497311,0.0063,Rodovia × Via urbana (CAMPINAS),False
+envolve_pesado,12619,75.61,1,3.4581932171691453e-18,0.0774,Rodovia × Via urbana (CAMPINAS),True
+envolve_bicicleta,12619,2.21,1,0.13745889873972192,0.0132,Rodovia × Via urbana (CAMPINAS),False
+envolve_pedestre,12619,42.75,1,6.209788931055148e-11,0.0582,Rodovia × Via urbana (CAMPINAS),True
+tp_capotamento,12619,162.44,1,3.3142457287790666e-37,0.1135,Rodovia × Via urbana (CAMPINAS),True
+gravidade,13239,1163.35,3,6.546445242416947e-252,0.2964,Rodovia × Via urbana (GUARULHOS),True
+periodo,13223,126.22,3,3.536368592160123e-27,0.0977,Rodovia × Via urbana (GUARULHOS),True
+dia_semana,13239,51.73,6,2.1117173642373965e-09,0.0625,Rodovia × Via urbana (GUARULHOS),True
+fim_semana,13239,46.11,1,1.117048246288187e-11,0.059,Rodovia × Via urbana (GUARULHOS),True
+tipo_detalhado,13239,3026.32,8,0.0,0.4781,Rodovia × Via urbana (GUARULHOS),True
+envolve_moto,13239,0.39,1,0.5328315407012509,0.0054,Rodovia × Via urbana (GUARULHOS),False
+envolve_pesado,13239,91.15,1,1.3306034904122687e-21,0.083,Rodovia × Via urbana (GUARULHOS),True
+envolve_bicicleta,13239,8.26,1,0.00404227025396093,0.025,Rodovia × Via urbana (GUARULHOS),True
+envolve_pedestre,13239,182.71,1,1.2432751662709283e-41,0.1175,Rodovia × Via urbana (GUARULHOS),True
+tp_capotamento,13239,42.0,1,9.135759442562444e-11,0.0563,Rodovia × Via urbana (GUARULHOS),True

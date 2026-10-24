@@ -1,0 +1,12 @@
+# Ambiente
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Dados brutos do InfoSiga (arquivos > 100 MB, acima do limite do GitHub)
+# Baixe em https://www.infosiga.sp.gov.br e salve os CSVs em data/raw/
+dados/
+data/raw/*
+!data/raw/.gitkeep
+data/interim/*
+!data/interim/.gitkeep

@@ -1,0 +1,5 @@
+﻿municipio,grupo_via,sinistros,fatais,Grave/Fatal%,Moto%,Pesado%,Pedestre%,Bicicleta%,Capotamento%,Fim sem%,Noite/Madrug.%,pop,sin_100k_ano,fat_100k_ano
+CAMPINAS,RODOVIA,3369,294,22.1,57.6,14.0,4.1,1.6,6.9,26.0,42.1,1139047,73.9,6.45
+CAMPINAS,VIA URBANA,9250,274,12.1,56.9,8.7,7.3,2.0,2.2,27.5,38.0,1139047,203.0,6.01
+GUARULHOS,RODOVIA,4188,219,11.1,64.8,15.5,4.9,1.6,2.4,23.8,39.0,1291771,81.1,4.24
+GUARULHOS,VIA URBANA,9051,329,12.2,64.2,9.8,12.5,2.5,1.0,29.5,41.5,1291771,175.2,6.37

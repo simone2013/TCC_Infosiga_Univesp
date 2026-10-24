@@ -1,0 +1,2 @@
+modelo,auc_teste,auc_in_sample,n_teste,pseudo_r2
+Regressão logística,0.699,0.7005,5164,0.0769

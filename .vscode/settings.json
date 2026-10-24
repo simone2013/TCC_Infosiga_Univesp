@@ -1,0 +1,7 @@
+{
+  "python.terminal.activateEnvironment": true,
+  "jupyter.askForKernelRestart": false,
+  "notebook.output.textLineLimit": 60,
+  "files.exclude": { "**/__pycache__": true, "**/.ipynb_checkpoints": true },
+  "editor.rulers": [100]
+}

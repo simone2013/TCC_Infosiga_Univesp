@@ -1,0 +1,15 @@
+polars[rtcompat]
+pandas
+pyarrow
+matplotlib
+seaborn
+altair
+vl-convert-python
+scikit-learn
+statsmodels
+scipy
+pillow
+ipykernel
+nbconvert
+nbformat
+jupyter
